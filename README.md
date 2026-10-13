@@ -46,8 +46,6 @@
 - **[Pokédex](https://github.com/akinoryyyyy/Poked-x.git)** — projeto para estudo prático de tabelas hash, de um jeito divertido e visual.
 - **[Agenda de Horários](#)** — sistema para marcação de horários com professores do meu departamento na faculdade.
 
-> 💡 Substitua os `#` acima pelos links reais dos repositórios.
-
 ---
 
 ### 📊 Estatísticas do GitHub
